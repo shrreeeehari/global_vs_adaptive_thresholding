@@ -11,4 +11,6 @@ The input image taken is affected with Gaussian noise. The code firsts denoises 
 
 <h2>OUTPUT IMAGES</h2>
 
-![](images/girl.jfif) ![](images/girl.jfif)
+<img src="images/Output_img1" height = "225">
+
+<img src="images/Output_img2" height = "225">
