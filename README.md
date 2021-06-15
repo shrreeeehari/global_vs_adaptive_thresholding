@@ -21,7 +21,7 @@ The above output images show the following results in sequential order.
 
 2. Denoised Image
 
-3.Global Thresholding Output
+3. Global Thresholding Output
 
 4. Adaptive Gaussian Thresholding Output and
 
