@@ -10,3 +10,5 @@ The input image taken is affected with Gaussian noise. The code firsts denoises 
 <br>
 
 <h2>OUTPUT IMAGES</h2>
+
+![](images/girl.jfif) ![](images/girl.jfif)
