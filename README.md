@@ -14,3 +14,17 @@ The input image taken is affected with Gaussian noise. The code firsts denoises 
 <img src="images/Output_img1.png" height = "225">
 
 <img src="images/Output_img2.png" height = "230">
+
+The above output images show the following results in sequential order.
+
+1. Original Image
+
+2. Denoised Image
+
+3.Global Thresholding Output
+
+4. Adaptive Gaussian Thresholding Output and
+
+5. Adaptive Mean Thresholding Output 
+
+
