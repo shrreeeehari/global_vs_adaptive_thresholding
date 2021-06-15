@@ -13,4 +13,4 @@ The input image taken is affected with Gaussian noise. The code firsts denoises 
 
 <img src="images/Output_img1.png" height = "225">
 
-<img src="images/Output_img2.png" height = "225">
+<img src="images/Output_img2.png" height = "230">
